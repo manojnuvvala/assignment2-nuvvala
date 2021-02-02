@@ -74,4 +74,18 @@ Four places to visit in INDIA
 >"If you want the present to be different from the past, study the past."
 >*- Baruch Spinoza*
 
+--------------------------------------------------------------------------
+# Code Fencing
 
+> T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL), including transaction control, exception and error handling, row processing and declared variables.
+
+<https://searchsqlserver.techtarget.com/definition/T-SQL#:~:text=T%2DSQL%20(Transact%2DSQL)%20is%20a%20set%20of,row%20processing%20and%20declared%20variables.>
+
+```
+%Syntax specification
+define program
+   [repeat number]
+end define
+
+```
+<https://en.wikipedia.org/wiki/TXL_(programming_language)>
