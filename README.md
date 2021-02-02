@@ -54,6 +54,8 @@ Unorder List
 
 Four places to visit in INDIA
 
+> I have used https://www.tablesgenerator.com/ website to generate the tables with less ease of time where we can use this site for different languages.
+
 | Locations | Hours to spend | Amount to spend |
 |-----------|----------------|-----------------|
 | Delhi     | 48hrs          | $1000           |
@@ -61,3 +63,11 @@ Four places to visit in INDIA
 | Goa       | 24hrs          | $700            |
 | Munnar    | 12hrs          | $300            |
 
+-----------------------------------------------------
+
+# Pithy Quotes
+
+
+> "Mistakes are the portals of discovery."  - *James Joyce
+
+>"If you want the present to be different from the past, study the past." -*Baruch Spinoza
