@@ -67,18 +67,11 @@ Four places to visit in INDIA
 
 # Pithy Quotes
 
->
-<<<<<<< HEAD
+
 > "Mistakes are the portals of discovery."
 > *- James Joyce*
->
+
 >"If you want the present to be different from the past, study the past."
 >*- Baruch Spinoza*
-=======
-> Mistakes are the portals of discovery.
-> *- James Joyce *
->
 
-> "If you want the present to be different from the past, study the past."
-> *- Baruch Spinoza *
->>>>>>> 80922b0fdb8d90cc3a9337c74998dcd5ff09a549
+
