@@ -69,7 +69,7 @@ Four places to visit in INDIA
 
 >
 > "Mistakes are the portals of discovery."
-> *- James Joyce *
+> *- James Joyce*
 >
 >"If you want the present to be different from the past, study the past."
->*- Baruch Spinoza *
+>*- Baruch Spinoza*
