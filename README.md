@@ -48,7 +48,7 @@ Unorder List
 * 500 ml water
 * 1/4 cup chopped coriander leaves
 
- ![favorite_dish](ragi.jpg)
+ ![favorite_dish](pictures/ragi.jpg)
 
 ----------------------------------------------------
 
