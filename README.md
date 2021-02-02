@@ -52,7 +52,7 @@ Unorder List
 
 ----------------------------------------------------
 
-![My picture](AboutMe.md)
+![My picture](assignment2-nuvvala/AboutMe.md)
 
 
 ----------------------------------------------------
