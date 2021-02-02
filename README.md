@@ -52,7 +52,7 @@ Unorder List
 
 ----------------------------------------------------
 
-![My picture](assignment2-nuvvala/AboutMe.md)
+![My picture](AboutMe.md)
 
 
 ----------------------------------------------------
@@ -82,9 +82,11 @@ Four places to visit in INDIA
 --------------------------------------------------------------------------
 # Code Fencing
 
-> T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL), including transaction control, exception and error handling, row processing and declared variables.
+### TXL
 
-<https://searchsqlserver.techtarget.com/definition/T-SQL#:~:text=T%2DSQL%20(Transact%2DSQL)%20is%20a%20set%20of,row%20processing%20and%20declared%20variables.>
+> TXL is programming language and rapid prototyping system specifically designed to support the specification and rapid implementation of source analysis and transformation tasks of all kinds.
+
+<https://program-transformation.org/Transform/TXL.html>
 
 ```
 %Syntax specification
