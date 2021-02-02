@@ -28,10 +28,11 @@ Order List
 5. 1 tsp coriander powder
 6. 1/2 lemon
 ### For Chicken Masala powder
-1. 1 tbsp coriander seeds
-2. 2 cinnamon sticks
-3. 1 tsp poppy seeds/khus khus
-4. tsp desiccated coconut
+1. chicken gram masala
+    1. 1 tbsp coriander seeds
+    2. 2 cinnamon sticks
+    3. 1 tsp poppy seeds/khus khus
+    4. tsp desiccated coconut
 
 Unorder List
 
@@ -47,6 +48,10 @@ Unorder List
 * 500 ml water
 * 1/4 cup chopped coriander leaves
 
+ ![favorite_dish](ragi.jpg)
+
+----------------------------------------------------
+
 ![My picture](AboutMe.md)
 
 
@@ -56,14 +61,14 @@ Four places to visit in INDIA
 
 > I have used https://www.tablesgenerator.com/ website to generate the tables with less ease of time where we can use this site for different languages.
 
-| Locations | Hours to spend | Amount to spend |
-|-----------|----------------|-----------------|
-| Delhi     | 48hrs          | $1000           |
-| Agra      | 24hrs          | $500            |
-| Goa       | 24hrs          | $700            |
-| Munnar    | 12hrs          | $300            |
+| Locations                      | Hours to spend | Amount to spend |
+|--------------------------------|----------------|-----------------|
+| Delhi![Delhi](Delhi.jpg)       | 48hrs          | $1000           |
+| Agra![Agra](agra.jpg)          | 24hrs          | $500            |
+| Goa![Goa](goa.jpg)             | 24hrs          | $700            |
+| Munnar![Munnar](munnar.jpg)    | 12hrs          | $300            |
 
------------------------------------------------------
+-----------------------------------------------------------------------------
 
 # Pithy Quotes
 
