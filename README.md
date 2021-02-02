@@ -16,27 +16,33 @@ Total Time
  
 Course: Main Course
 Cuisine: Andhra
+
+Order List
+
 ## Ingredients
 ### For Marination
-500 grams country chicken
-1/4 tsp turmeric powder
-1 tsp salt
-1 tsp red chili powder
-1 tsp coriander powder
-1/2 lemon
+1. 500 grams country chicken
+2. 1/4 tsp turmeric powder
+3. 1 tsp salt
+4. 1 tsp red chili powder
+5. 1 tsp coriander powder
+6. 1/2 lemon
 ### For Chicken Masala powder
-1 tbsp coriander seeds
-2 cinnamon sticks
-1 tsp poppy seeds/khus khus
-1 tsp desiccated coconut
+1. 1 tbsp coriander seeds
+2. 2 cinnamon sticks
+3. 1 tsp poppy seeds/khus khus
+4. tsp desiccated coconut
+
+Unorder List
+
 ### For curry
-2 chopped onions
-3 slit green chilies
-1 tsp ginger garlic paste
-2 sprigs curry leaves
-1/4 tsp turmeric powder
-salt as needed
-1 1/2 tsp red chili powder
-5 tbsp oil
-500 ml water
-1/4 cup chopped coriander leaves
+* 2 chopped onions
+* 3 slit green chilies
+* 1 tsp ginger garlic paste
+* 2 sprigs curry leaves
+* 1/4 tsp turmeric powder
+* salt as needed
+* 1 1/2 tsp red chili powder
+* 5 tbsp oil
+* 500 ml water
+* 1/4 cup chopped coriander leaves
