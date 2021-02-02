@@ -61,12 +61,12 @@ Four places to visit in INDIA
 
 > I have used https://www.tablesgenerator.com/ website to generate the tables with less ease of time where we can use this site for different languages.
 
-| Locations                      | Hours to spend | Amount to spend |
-|--------------------------------|----------------|-----------------|
-| Delhi![Delhi](Delhi.jpg)       | 48hrs          | $1000           |
-| Agra![Agra](agra.jpg)          | 24hrs          | $500            |
-| Goa![Goa](goa.jpg)             | 24hrs          | $700            |
-| Munnar![Munnar](munnar.jpg)    | 12hrs          | $300            |
+| Locations                           | Hours to spend | Amount to spend |
+|----------------------------------   |----------------|-----------------|
+| Delhi![Delhi](pictures/Delhi.jpg)   | 48hrs          | $1000           |
+| Agra![Agra](pictures/agra.jpg)      | 24hrs          | $500            |
+| Goa![Goa](pictures/goa.jpg)         | 24hrs          | $700            |
+| Munnar![Munnar](pictures/munnar.jpg)| 12hrs          | $300            |
 
 -----------------------------------------------------------------------------
 
