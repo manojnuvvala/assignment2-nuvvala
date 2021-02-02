@@ -48,3 +48,16 @@ Unorder List
 * 1/4 cup chopped coriander leaves
 
 ![My picture](AboutMe.md)
+
+
+----------------------------------------------------
+
+Four places to visit in INDIA
+
+| Locations | Hours to spend | Amount to spend |
+|-----------|----------------|-----------------|
+| Delhi     | 48hrs          | $1000           |
+| Agra      | 24hrs          | $500            |
+| Goa       | 24hrs          | $700            |
+| Munnar    | 12hrs          | $300            |
+
